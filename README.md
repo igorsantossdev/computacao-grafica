@@ -1,2 +1,2 @@
-# comp_grafica
-aqui, vou guardar todos os meus designs, logos e afins
+# All Nat
+O All Nat é o layout de um aplicativo de produtos naturais que desenvolvi durante o curso de Desenvolvimento de Sistemas. Com esse projeto, aprimorei minhas habilidades em design de aplicativos, explorando conceitos de UX/UI e criando uma experiência intuitiva e visualmente atraente. Além disso, ganhei experiência prática no uso do Figma, aprendendo a estruturar telas de forma eficiente e a desenvolver interfaces funcionais e modernas.
